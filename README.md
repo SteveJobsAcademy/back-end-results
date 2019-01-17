@@ -9,15 +9,15 @@
 * Bonaccorso 9 : ? => ?/10 *Compito1, credo che una buona parte del compito1 l'hai scritta tu, ma non ho idea di che voto metterti.
 * Bonanno 8 : 6 => 7/10 *Confusione nel progetto client, ma sono sicuro che è tutta farina del tuo sacco e che ti sei impegnata.
 * Blasco *Compito1
-* Carfì 6 : 6 => 7 *Del server ho trovato solo il pacchetto Npm, il client hai ancora un po' di difficoltà ma ti premio perchè almeno farina del tuo sacco, ti ho dato un punto in più.
+* Carfì 6 : 6 => 7/10 *Del server ho trovato solo il pacchetto Npm, il client hai ancora un po' di difficoltà ma ti premio perchè almeno farina del tuo sacco, ti ho dato un punto in più.
 * Casabianca *Fotocopia compito Bonaccorso, Frazzetto, non ho trovato il server.
-* Corsaro 7 : 8 => 7 *Ti ho tolto un punto perchè alcune parti del tuo codice le ho trovate nel compito1
+* Corsaro 7 : 8 => 7/10 *Ti ho tolto un punto perchè alcune parti del tuo codice le ho trovate nel compito1
 * Costanzo *Compito2, stai utilizzando le API di Ardenti,
-* Gentile ? : 6 => 7 *Ti ho dato un punto in più perchè almeno ti sei impegnato a trovare una soluzione da solo.
+* Gentile ? : 6 => 7/10 *Ti ho dato un punto in più perchè almeno ti sei impegnato a trovare una soluzione da solo.
 * Frazzetto *Compito1
 * Gimbo *Compito2, stai utilizzando le API di Ardenti, non commento il tuo server visto che non hai usato nemmeno una terminologia adatta ad un compito.
 * JamJama *Compito1
-* Marchese 9 : 9 => 8 *Peccato che nel client non sei riuscito a completare tutte le funzioni richeste nel compito e peccato che il compito di Viavattente sia uguale al tuo, ti ho tolto un punto.
+* Marchese 9 : 9 => 8/10 *Peccato che nel client non sei riuscito a completare tutte le funzioni richeste nel compito e peccato che il compito di Viavattente sia uguale al tuo, ti ho tolto un punto.
 * Mauro *Compito1
 * Privitera *Compito1, addirittura nel tuo package.json c'è scritto author: 'salvatore bonaccorso'!
 * Viavattene *Compito3
