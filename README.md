@@ -23,6 +23,6 @@
 * Viavattene *Compito3
 
 
-* Compito1 Bonaccorso, Blasco, Bennardo, Casabiancam, JamJama, Mauro, Privitera (Corsaro leggermente diverso)
-* Compito2 Ardenti, Costanzo, Gimbo
-* Compito3 Marchese, Viavattene
+##### Compito1 Bonaccorso, Blasco, Bennardo, Casabiancam, JamJama, Mauro, Privitera (Corsaro leggermente diverso)
+##### Compito2 Ardenti, Costanzo, Gimbo
+##### Compito3 Marchese, Viavattene
