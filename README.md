@@ -1,8 +1,8 @@
 # Back End Results
 
-### Sono molto deluso sulla gestione di questi compiti, ho trovato pochissimi 'lavori unici' e poca voglia di imparare in questa materia, fondamentale per chi vuole intraprendere una professione in questo settore.
-### Ho premiato chi ha provato a trovare una soluzione da solo (pur sbagliando) chi piuttosto ha lavorato in team.
-### Per tutti gli studenti che non hanno ricevuto un voto darò una sufficenza politica, per chi non vuole 'accontentarsi' darò la possibilità di fare un ulteriore prova.
+##### Sono molto deluso sulla gestione di questi compiti, ho trovato pochissimi 'lavori unici' e poca voglia di imparare in questa materia, fondamentale per chi vuole intraprendere una professione in questo settore.
+##### Ho premiato chi ha provato a trovare una soluzione da solo (pur sbagliando) chi piuttosto ha lavorato in team.
+##### Per tutti gli studenti che non hanno ricevuto un voto darò una sufficenza politica, per chi non vuole 'accontentarsi' darò la possibilità di fare un ulteriore prova.
 
 * Ardenti 9 : 9 => 8/10 *Ti ho tolto un punto, Costanzo e Gimbo hanno il tuo stesso compito utilizzando anche il tuo server...
 * Bennardo *Compito1 Hai addirittura un unico progetto git Client/Server...
