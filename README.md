@@ -9,7 +9,7 @@
 * Bonaccorso 9 : ? => ?/10 *Compito1, credo che una buona parte del compito1 l'hai scritta tu, ma non ho idea di che voto metterti.
 * Bonanno 8 : 6 => 7/10 *Confusione nel progetto client, ma sono sicuro che è tutta farina del tuo sacco e che ti sei impegnata.
 * Blasco *Compito1
-* Carfì 6 : 6 => 7/10 *Del server ho trovato solo il pacchetto Npm, il client hai ancora un po' di difficoltà ma ti premio perchè almeno farina del tuo sacco, ti ho dato un punto in più.
+* Carfì 8 : 6 => 8/10 *il client hai ancora un po' di difficoltà ma ti premio perchè almeno farina del tuo sacco, ti ho dato un punto in più.
 * Casabianca *Fotocopia compito Bonaccorso, Frazzetto, non ho trovato il server.
 * Corsaro 7 : 8 => 7/10 *Ti ho tolto un punto perchè alcune parti del tuo codice le ho trovate nel compito1
 * Costanzo *Compito2, stai utilizzando le API di Ardenti,
