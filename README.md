@@ -34,7 +34,7 @@ Il Massimo voto per la prova di recupero è 8.
 * Ardenti 9 : 9 => 9
 * Bennardo 6
 * Bonaccorso 9 : 8 => 9
-* Bonanno 8 : 8 => 8
+* Bonanno 9 : 8 => 9
 * Blasco 6
 * Carfì 8 : 8 => 8
 * Casabianca 6
