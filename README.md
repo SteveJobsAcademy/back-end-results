@@ -26,3 +26,25 @@
 ##### Compito1 Bonaccorso, Blasco, Bennardo, Casabiancam, JamJama, Mauro, Privitera (Corsaro leggermente diverso)
 ##### Compito2 Ardenti, Costanzo, Gimbo
 ##### Compito3 Marchese, Viavattene
+
+
+Voti Finali.
+Il Massimo voto per la prova di recupero è 8.
+
+* Ardenti 9 : 9 => 9
+* Bennardo 6
+* Bonaccorso 9 : 8 => 9
+* Bonanno 8 : 8 => 8
+* Blasco 6
+* Carfì 8 : 8 => 8
+* Casabianca 6
+* Corsaro 7 : 8 => 8
+* Costanzo 6
+* Gentile - : 6 => 7
+* Frazzetto 6
+* Gimbo 6
+* JamJama ND : 8 => 7
+* Marchese 9 : 9 => 9
+* Mauro 8 : 8 => 8
+* Privitera 6 : 6 => 6
+* Viavattene 6
