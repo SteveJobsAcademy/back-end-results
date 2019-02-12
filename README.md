@@ -43,7 +43,7 @@ Il Massimo voto per la prova di recupero è 8.
 * Gentile - : 6 => 7
 * Frazzetto 6
 * Gimbo 6
-* JamJama ND : 8 => 7
+* JamJama ND : 8 => 8
 * Marchese 9 : 9 => 9
 * Mauro 8 : 8 => 8
 * Privitera 6 : 6 => 6
